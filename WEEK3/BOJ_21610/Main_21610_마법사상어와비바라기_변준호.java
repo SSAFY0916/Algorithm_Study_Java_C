@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main{
+public class Main_21610_마법사상어와비바라기_변준호{
 	static int N,C;
 	static int arr[][];
 	static int command[][];
