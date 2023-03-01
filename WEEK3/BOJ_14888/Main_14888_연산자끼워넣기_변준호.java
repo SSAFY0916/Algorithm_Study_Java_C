@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main{
+public class Main_14888_연산자끼워넣기_변준호{
 	static int arr[];
 	static int sahic[];
 	static int N;
