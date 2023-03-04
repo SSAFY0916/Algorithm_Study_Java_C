@@ -19,7 +19,7 @@
 
 ### ✅ commit 규칙
 - 파일 명: Main_문제번호_문제이름_이름.java
-- commit 메세지: [플랫폼] 번호 문제이름
+- commit 메세지: [플랫폼] 문제번호 문제이름
 - 터미널에서 작성법: 
 ```
 git commit -m "[BOJ] 21554 마법사의 돌 장난감"
@@ -53,7 +53,7 @@ WEEK1 / A_BOJ_9999 / 파일명
 
 - git fetch
 - git add .
-- git commit -m "[BOJ-문제번호] 문제명"
+- git commit -m "[BOJ] 문제번호 문제명"
 - git pull origin main
 - git push origin [개인 브랜치]
 
