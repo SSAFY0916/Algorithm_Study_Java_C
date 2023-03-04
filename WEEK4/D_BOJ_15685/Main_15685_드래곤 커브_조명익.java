@@ -3,6 +3,18 @@ import java.util.*;
 
 public class Main {
 
+    /*
+         최초 시작 방향이 오른쪽인 경우의 드래곤 커브의 이동 규칙성 (백준 질문 게시판에서 힌트를 얻었습니다 😇)
+         
+         * N 세대의 이동은 N - 1 세대 전체 이동의 역순으로 + 1 관계를 가진다. (4인 경우 0으로 초기화)
+         
+               (이전) / (이동)
+         0세대  오 0
+         1세대  오 0  /  위 1    (0 세대 전체 이동인 오른쪽 0에 +1)
+         2세대  오 0 위 1  /  왼 2 위 1 (1 세대 전체 이동의 역순으로 위 1에 +1하여 왼 2, 오른쪽 0에 +1하여 위 1
+         3세대  오 0 위 1 왼 2 위 1  /  왼 2 아 3 왼 2 위 1 (...)
+    */
+    
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         boolean[][] board = new boolean[101][101];
