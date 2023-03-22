@@ -45,7 +45,8 @@ WEEK1 / A_BOJ_9999 / 파일명
 | WEEK2 | [한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996) | [사탕게임](https://www.acmicpc.net/problem/3085) | [꿀따기](https://www.acmicpc.net/problem/21758) | [상어 초등학교](https://www.acmicpc.net/problem/21608) | [파일 합치기](https://www.acmicpc.net/problem/11066) | `진행 완료`   |
 | WEEK3 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) | [경사로](https://www.acmicpc.net/problem/14890) | [사다리 조작](https://www.acmicpc.net/problem/15684) | [구슬 탈출 2](https://www.acmicpc.net/problem/13460) |`진행 완료`   |
 | WEEK4 | [회문](https://www.acmicpc.net/problem/17609) | [얼음깨기 펭귄](https://www.acmicpc.net/problem/21738) | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | [드래곤 커브](https://www.acmicpc.net/problem/15685) | [비밀 모임](https://www.acmicpc.net/problem/13424) |`진행 완료`   |
-| WEEK5 | [친구](https://www.acmicpc.net/problem/1058) | [소-난다](https://www.acmicpc.net/problem/19699) | [포도주 시식](https://www.acmicpc.net/problem/2156) | [빗물](https://www.acmicpc.net/problem/14719) | [나무 재테크](https://www.acmicpc.net/problem/16235) |`진행 중`   |
+| WEEK5 | [친구](https://www.acmicpc.net/problem/1058) | [소-난다](https://www.acmicpc.net/problem/19699) | [포도주 시식](https://www.acmicpc.net/problem/2156) | [빗물](https://www.acmicpc.net/problem/14719) | [나무 재테크](https://www.acmicpc.net/problem/16235) |`진행 완료`   |
+| WEEK6 | [AC](https://www.acmicpc.net/problem/5430) | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) | [시간 관리하기](https://www.acmicpc.net/problem/6068) | [잔디 예측하기](https://www.acmicpc.net/problem/25552) | [연구소 3](https://www.acmicpc.net/problem/17142) |`진행 중`   |
 
 
 
