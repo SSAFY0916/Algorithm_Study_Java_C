@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.*;
 
 public class Main_5430_AC_신재혁 {
-    public static StringBuilder sb;//ㅁㄴㅇㄹ
+    public static StringBuilder sb;
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         sb = new StringBuilder();
