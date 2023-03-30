@@ -1,3 +1,4 @@
+package Algorithm_Study_Java2.WEEK6.C_BOJ_6068;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
