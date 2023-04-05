@@ -1,6 +1,6 @@
-# Algorithm_Study_Java2
+# Algorithm_Study_Java_C++
 
-> [Java 2팀] 알고리즘 스터디
+> [Java C++] 알고리즘 스터디
 - 기간: 2023년 2월 ~ 
 - 정기 회의: 목요일 오후 9시
 - 참고 사이트: [백준](https://www.acmicpc.net/)
