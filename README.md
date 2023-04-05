@@ -1,6 +1,6 @@
-# Algorithm_Study_Java2
+# Algorithm_Study_Java_C++
 
-> [Java 2팀] 알고리즘 스터디
+> [Java C++] 알고리즘 스터디
 - 기간: 2023년 2월 ~ 
 - 정기 회의: 목요일 오후 9시
 - 참고 사이트: [백준](https://www.acmicpc.net/)
@@ -39,15 +39,16 @@ WEEK1 / A_BOJ_9999 / 파일명
 
 #### ✅ Weekly Problem Solving
 
-| **주차** | **문제 A**    | **문제 B**    | **문제 C**    | **문제 D**    | **문제 E**    | **진행 현황** |
-| -------- | ------------- | ------------- | ------------- | ------------- | ------------- | -----------------|
-| WEEK1 | [최후의 승자는 누구?](https://www.acmicpc.net/problem/12760) | [Z](https://www.acmicpc.net/problem/1074) | [스타트링크](https://www.acmicpc.net/problem/5014) | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | [마라톤 2](https://www.acmicpc.net/problem/10653) | `진행 완료`   |
-| WEEK2 | [한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996) | [사탕게임](https://www.acmicpc.net/problem/3085) | [꿀따기](https://www.acmicpc.net/problem/21758) | [상어 초등학교](https://www.acmicpc.net/problem/21608) | [파일 합치기](https://www.acmicpc.net/problem/11066) | `진행 완료`   |
-| WEEK3 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) | [경사로](https://www.acmicpc.net/problem/14890) | [사다리 조작](https://www.acmicpc.net/problem/15684) | [구슬 탈출 2](https://www.acmicpc.net/problem/13460) |`진행 완료`   |
-| WEEK4 | [회문](https://www.acmicpc.net/problem/17609) | [얼음깨기 펭귄](https://www.acmicpc.net/problem/21738) | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | [드래곤 커브](https://www.acmicpc.net/problem/15685) | [비밀 모임](https://www.acmicpc.net/problem/13424) |`진행 완료`   |
-| WEEK5 | [친구](https://www.acmicpc.net/problem/1058) | [소-난다](https://www.acmicpc.net/problem/19699) | [포도주 시식](https://www.acmicpc.net/problem/2156) | [빗물](https://www.acmicpc.net/problem/14719) | [나무 재테크](https://www.acmicpc.net/problem/16235) |`진행 완료`   |
-| WEEK6 | [AC](https://www.acmicpc.net/problem/5430) | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) | [시간 관리하기](https://www.acmicpc.net/problem/6068) | [잔디 예측하기](https://www.acmicpc.net/problem/25552) | [연구소 3](https://www.acmicpc.net/problem/17142) |`진행 완료`   |
-| WEEK6 | [선발 명단](https://www.acmicpc.net/problem/3980) | [보물섬](https://www.acmicpc.net/problem/2589) | [동전 뒤집기](https://www.acmicpc.net/problem/1640) | [소수의 연속합](https://www.acmicpc.net/problem/1644) | [레이저 통신](https://www.acmicpc.net/problem/6087) |`진행 중`   |
+| **주차** | **문제 A**    | **문제 B**    | **문제 C**    | **문제 D**    | **문제 E**    | **문제 F**    | **진행 현황** |
+| -------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| WEEK1 | [최후의 승자는 누구?](https://www.acmicpc.net/problem/12760) | [Z](https://www.acmicpc.net/problem/1074) | [스타트링크](https://www.acmicpc.net/problem/5014) | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | [마라톤 2](https://www.acmicpc.net/problem/10653) |    | `진행 완료`   |
+| WEEK2 | [한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996) | [사탕게임](https://www.acmicpc.net/problem/3085) | [꿀따기](https://www.acmicpc.net/problem/21758) | [상어 초등학교](https://www.acmicpc.net/problem/21608) | [파일 합치기](https://www.acmicpc.net/problem/11066) |   | `진행 완료`   |
+| WEEK3 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) | [경사로](https://www.acmicpc.net/problem/14890) | [사다리 조작](https://www.acmicpc.net/problem/15684) | [구슬 탈출 2](https://www.acmicpc.net/problem/13460) |  |`진행 완료`   |
+| WEEK4 | [회문](https://www.acmicpc.net/problem/17609) | [얼음깨기 펭귄](https://www.acmicpc.net/problem/21738) | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | [드래곤 커브](https://www.acmicpc.net/problem/15685) | [비밀 모임](https://www.acmicpc.net/problem/13424) | |`진행 완료`   |
+| WEEK5 | [친구](https://www.acmicpc.net/problem/1058) | [소-난다](https://www.acmicpc.net/problem/19699) | [포도주 시식](https://www.acmicpc.net/problem/2156) | [빗물](https://www.acmicpc.net/problem/14719) | [나무 재테크](https://www.acmicpc.net/problem/16235) |  |`진행 완료`   |
+| WEEK6 | [AC](https://www.acmicpc.net/problem/5430) | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) | [시간 관리하기](https://www.acmicpc.net/problem/6068) | [잔디 예측하기](https://www.acmicpc.net/problem/25552) | [연구소 3](https://www.acmicpc.net/problem/17142) |   |`진행 완료`   |
+| WEEK7 | [선발 명단](https://www.acmicpc.net/problem/3980) | [보물섬](https://www.acmicpc.net/problem/2589) | [동전 뒤집기](https://www.acmicpc.net/problem/1640) | [소수의 연속합](https://www.acmicpc.net/problem/1644) | [레이저 통신](https://www.acmicpc.net/problem/6087) |   |`진행 완료`   |
+| WEEK8 | [펠린드롬?](https://www.acmicpc.net/problem/10942) | [소수경로](https://www.acmicpc.net/problem/1963) | [불!](https://www.acmicpc.net/problem/4179) | [앱](https://www.acmicpc.net/problem/7579) | [코딩은 예쁘게](https://www.acmicpc.net/problem/2879) | [음식 평론가](https://www.acmicpc.net/problem/1188)  |`진행중`   |
 
 
 
