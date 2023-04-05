@@ -48,7 +48,7 @@ WEEK1 / A_BOJ_9999 / 파일명
 | WEEK5 | [친구](https://www.acmicpc.net/problem/1058) | [소-난다](https://www.acmicpc.net/problem/19699) | [포도주 시식](https://www.acmicpc.net/problem/2156) | [빗물](https://www.acmicpc.net/problem/14719) | [나무 재테크](https://www.acmicpc.net/problem/16235) |  |`진행 완료`   |
 | WEEK6 | [AC](https://www.acmicpc.net/problem/5430) | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) | [시간 관리하기](https://www.acmicpc.net/problem/6068) | [잔디 예측하기](https://www.acmicpc.net/problem/25552) | [연구소 3](https://www.acmicpc.net/problem/17142) |   |`진행 완료`   |
 | WEEK7 | [선발 명단](https://www.acmicpc.net/problem/3980) | [보물섬](https://www.acmicpc.net/problem/2589) | [동전 뒤집기](https://www.acmicpc.net/problem/1640) | [소수의 연속합](https://www.acmicpc.net/problem/1644) | [레이저 통신](https://www.acmicpc.net/problem/6087) |   |`진행 완료`   |
-| WEEK7 | [펠린드롬?](https://www.acmicpc.net/problem/10942) | [소수경로](https://www.acmicpc.net/problem/1963) | [불!](https://www.acmicpc.net/problem/4179) | [앱](https://www.acmicpc.net/problem/7579) | [코딩은 예쁘게](https://www.acmicpc.net/problem/2879) | [음식 평론가](https://www.acmicpc.net/problem/1188)  |`진행중`   |
+| WEEK8 | [펠린드롬?](https://www.acmicpc.net/problem/10942) | [소수경로](https://www.acmicpc.net/problem/1963) | [불!](https://www.acmicpc.net/problem/4179) | [앱](https://www.acmicpc.net/problem/7579) | [코딩은 예쁘게](https://www.acmicpc.net/problem/2879) | [음식 평론가](https://www.acmicpc.net/problem/1188)  |`진행중`   |
 
 
 
