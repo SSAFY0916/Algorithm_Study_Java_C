@@ -50,7 +50,8 @@ WEEK1 / A_BOJ_9999 / 파일명
 | WEEK7 | [선발 명단](https://www.acmicpc.net/problem/3980) | [보물섬](https://www.acmicpc.net/problem/2589) | [동전 뒤집기](https://www.acmicpc.net/problem/1640) | [소수의 연속합](https://www.acmicpc.net/problem/1644) | [레이저 통신](https://www.acmicpc.net/problem/6087) |   |`진행 완료`   |
 | WEEK8 | [펠린드롬?](https://www.acmicpc.net/problem/10942) | [소수경로](https://www.acmicpc.net/problem/1963) | [불!](https://www.acmicpc.net/problem/4179) | [앱](https://www.acmicpc.net/problem/7579) | [코딩은 예쁘게](https://www.acmicpc.net/problem/2879) | [음식 평론가](https://www.acmicpc.net/problem/1188)  |`진행 완료`   |
 | WEEK9 | [물병](https://www.acmicpc.net/problem/1052) | [뮤탈리스크](https://www.acmicpc.net/problem/12869) | [샘터](https://www.acmicpc.net/problem/18513) | [카드 정렬하기](https://www.acmicpc.net/problem/1715) | [좋은 수열](https://www.acmicpc.net/problem/2661) | [어항 정리](https://www.acmicpc.net/problem/23291)  |`진행 완료`   |
-| WEEK10 | [직사각형 색칠하기](https://www.acmicpc.net/problem/1186) | [내리막 길](https://www.acmicpc.net/problem/1520) | [거울 설치](https://www.acmicpc.net/problem/2151) | [사이좋은 형제](https://www.acmicpc.net/problem/1341) | [과제](https://www.acmicpc.net/problem/13904) | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)  |`진행 중`   |
+| WEEK10 | [직사각형 색칠하기](https://www.acmicpc.net/problem/1186) | [내리막 길](https://www.acmicpc.net/problem/1520) | [거울 설치](https://www.acmicpc.net/problem/2151) | [사이좋은 형제](https://www.acmicpc.net/problem/1341) | [과제](https://www.acmicpc.net/problem/13904) | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)  |`진행 완료`   |
+| WEEK11 | [비숍](https://www.acmicpc.net/problem/1560) | [틱택토](https://www.acmicpc.net/problem/7682) | [미로](https://www.acmicpc.net/problem/24463) | [물대기](https://www.acmicpc.net/problem/1368) | [마지막 사진 찍기](https://www.acmicpc.net/problem/2764) | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)  |`진행 중`   |
 
 
 
