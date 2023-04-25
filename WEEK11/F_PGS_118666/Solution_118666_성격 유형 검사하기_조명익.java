@@ -2,25 +2,17 @@ import java.util.*;
 
 public class Solution {
 
-    Map<Integer, Integer> scoreByChoice = Map.of(
-        1, -3,
-        2, -2,
-        3, -1,
-        4, 0,
-        5, 1,
-        6, 2,
-        7, 3
-    );
+    int[] scoreByChoice = {0, -3, -2, -1, 0, 1, 2, 3};
 
     Map<Character, Character> typeByType = Map.of(
-        'R', 'T',
-        'T', 'R',
-        'C', 'F',
-        'F', 'C',
-        'J', 'M',
-        'M', 'J',
-        'A', 'N',
-        'N', 'A'
+            'R', 'T',
+            'T', 'R',
+            'C', 'F',
+            'F', 'C',
+            'J', 'M',
+            'M', 'J',
+            'A', 'N',
+            'N', 'A'
     );
 
     Map<Character, Integer> scoreByType = new HashMap<>();
@@ -28,7 +20,7 @@ public class Solution {
     public String solution(String[] survey, int[] choices) {
         char[] types = {'T', 'F', 'M', 'N'};
         for (char type : types) {
-            scoreByType.put(type, 0);    
+            scoreByType.put(type, 0);
         }
 
         for (int i = 0; i < survey.length; i++) {
@@ -55,16 +47,16 @@ public class Solution {
                 result.append(typeByType.get(type));
             }
         }
-        
+
         return result.toString();
     }
 
     private void setScore(String s, int c, char target) {
         int temp;
         if (s.charAt(0) == target) {
-            temp = -scoreByChoice.get(c);
+            temp = -scoreByChoice[c];
         } else {
-            temp = scoreByChoice.get(c);
+            temp = scoreByChoice[c];
         }
 
         scoreByType.put(target, scoreByType.get(target) + temp);
