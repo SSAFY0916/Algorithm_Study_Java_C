@@ -52,7 +52,7 @@ WEEK1 / A_BOJ_9999 / 파일명
 | WEEK9 | [물병](https://www.acmicpc.net/problem/1052) | [뮤탈리스크](https://www.acmicpc.net/problem/12869) | [샘터](https://www.acmicpc.net/problem/18513) | [카드 정렬하기](https://www.acmicpc.net/problem/1715) | [좋은 수열](https://www.acmicpc.net/problem/2661) | [어항 정리](https://www.acmicpc.net/problem/23291)  |`진행 완료`   |
 | WEEK10 | [직사각형 색칠하기](https://www.acmicpc.net/problem/1186) | [내리막 길](https://www.acmicpc.net/problem/1520) | [거울 설치](https://www.acmicpc.net/problem/2151) | [사이좋은 형제](https://www.acmicpc.net/problem/1341) | [과제](https://www.acmicpc.net/problem/13904) | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)  |`진행 완료`   |
 | WEEK11 | [비숍](https://www.acmicpc.net/problem/1560) | [틱택토](https://www.acmicpc.net/problem/7682) | [미로](https://www.acmicpc.net/problem/24463) | [물대기](https://www.acmicpc.net/problem/1368) | [마지막 사진 찍기](https://www.acmicpc.net/problem/2764) | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)  |`진행 완료`   |
-| WEEK12 | [게이른 백곰](https://www.acmicpc.net/problem/10025) | [회문은 회문아니야!!](https://www.acmicpc.net/problem/15927) | [전화번호 수수께끼(small)](https://www.acmicpc.net/problem/14369) | [문제집](https://www.acmicpc.net/problem/1766) | |  |`진행 중`   |
+| WEEK12 | [게으른 백곰](https://www.acmicpc.net/problem/10025) | [회문은 회문아니야!!](https://www.acmicpc.net/problem/15927) | [전화번호 수수께끼(small)](https://www.acmicpc.net/problem/14369) | [문제집](https://www.acmicpc.net/problem/1766) | |  |`진행 중`   |
 
 
 
