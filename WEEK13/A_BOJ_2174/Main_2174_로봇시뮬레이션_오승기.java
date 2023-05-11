@@ -19,7 +19,7 @@ public class Main_2174_로봇시뮬레이션_오승기 {
 		public Robot(int x, int y, int dir) {
 			super();
 			this.x = x;
-			this.y = y;  
+			this.y = y;
 			this.dir = dir;
 		}
 		
