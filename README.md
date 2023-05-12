@@ -53,8 +53,8 @@ WEEK1 / A_BOJ_9999 / 파일명
 | WEEK10 | [직사각형 색칠하기](https://www.acmicpc.net/problem/1186) | [내리막 길](https://www.acmicpc.net/problem/1520) | [거울 설치](https://www.acmicpc.net/problem/2151) | [사이좋은 형제](https://www.acmicpc.net/problem/1341) | [과제](https://www.acmicpc.net/problem/13904) | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)  |`진행 완료`   |
 | WEEK11 | [비숍](https://www.acmicpc.net/problem/1560) | [틱택토](https://www.acmicpc.net/problem/7682) | [미로](https://www.acmicpc.net/problem/24463) | [물대기](https://www.acmicpc.net/problem/1368) | [마지막 사진 찍기](https://www.acmicpc.net/problem/2764) | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)  |`진행 완료`   |
 | WEEK12 | [게으른 백곰](https://www.acmicpc.net/problem/10025) | [회문은 회문아니야!!](https://www.acmicpc.net/problem/15927) | [전화번호 수수께끼(small)](https://www.acmicpc.net/problem/14369) | [문제집](https://www.acmicpc.net/problem/1766) | |  |`진행 완료`   |
-| WEEK13 | [로봇 시뮬레이션](https://www.acmicpc.net/problem/10025) | [멀티버스 2](https://www.acmicpc.net/problem/18869) | [카드 게임](https://www.acmicpc.net/problem/11062) | [내일로 여행](https://www.acmicpc.net/problem/13168) | |  |`진행 중`   |
-
+| WEEK13 | [로봇 시뮬레이션](https://www.acmicpc.net/problem/10025) | [멀티버스 2](https://www.acmicpc.net/problem/18869) | [카드 게임](https://www.acmicpc.net/problem/11062) | [내일로 여행](https://www.acmicpc.net/problem/13168) | |  |`진행 완료`   |
+| WEEK14 | [미로 만들기](https://www.acmicpc.net/problem/2665) | [주사위 굴리기 2](https://www.acmicpc.net/problem/23288) | [두 원](https://www.acmicpc.net/problem/7869) | [실버런](https://www.acmicpc.net/problem/16117) | |  |`진행 중`   |
 
 
 
